@@ -1,4 +1,4 @@
-all git commands
+all git commands started
 
 git config --global user.name Priya
 $ git config --global user.email priyaprasad452@gmail.com
