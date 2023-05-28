@@ -5,4 +5,7 @@ $ git config --global user.email priyaprasad452@gmail.com
 git init 
 git status
 git add .
+git commit -m "newcode"
 git push
+git branch priyacode
+
