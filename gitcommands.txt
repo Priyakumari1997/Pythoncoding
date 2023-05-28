@@ -5,3 +5,4 @@ $ git config --global user.email priyaprasad452@gmail.com
 git init 
 git status
 git add .
+git push
