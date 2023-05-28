@@ -6,3 +6,10 @@ git init
 git status
 git add .
 git push
+for creating new branch:
+  :git branch branchname
+for going into that branch:
+  :git checkout branchname
+for mergin code in master 
+git merge branchname
+
