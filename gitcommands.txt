@@ -1,0 +1,7 @@
+all git commands
+
+git config --global user.name Priya
+$ git config --global user.email priyaprasad452@gmail.com
+git init 
+git status
+git add .
